@@ -1,0 +1,11 @@
+{
+  "name": "npm-install-hang-demo",
+  "version": "1.0.0",
+  "description": "no-op package to demonstrate npm install hang",
+  "author": "Dan Kegel",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dankegel/npm-install-hang-demo.git"
+  },
+  "private": true
+}
